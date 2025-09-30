@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\PositivePower\bin\Debug\net9.0\PositivePower.exe
+C:\Projects\Homework_1\PositivePower\bin\Debug\net9.0\PositivePower.deps.json
+C:\Projects\Homework_1\PositivePower\bin\Debug\net9.0\PositivePower.runtimeconfig.json
+C:\Projects\Homework_1\PositivePower\bin\Debug\net9.0\PositivePower.dll
+C:\Projects\Homework_1\PositivePower\bin\Debug\net9.0\PositivePower.pdb
+C:\Projects\Homework_1\PositivePower\obj\Debug\net9.0\PositivePower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\PositivePower\obj\Debug\net9.0\PositivePower.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\PositivePower\obj\Debug\net9.0\PositivePower.AssemblyInfo.cs
+C:\Projects\Homework_1\PositivePower\obj\Debug\net9.0\PositivePower.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\PositivePower\obj\Debug\net9.0\PositivePower.sourcelink.json
+C:\Projects\Homework_1\PositivePower\obj\Debug\net9.0\PositivePower.dll
+C:\Projects\Homework_1\PositivePower\obj\Debug\net9.0\refint\PositivePower.dll
+C:\Projects\Homework_1\PositivePower\obj\Debug\net9.0\PositivePower.pdb
+C:\Projects\Homework_1\PositivePower\obj\Debug\net9.0\PositivePower.genruntimeconfig.cache
+C:\Projects\Homework_1\PositivePower\obj\Debug\net9.0\ref\PositivePower.dll
