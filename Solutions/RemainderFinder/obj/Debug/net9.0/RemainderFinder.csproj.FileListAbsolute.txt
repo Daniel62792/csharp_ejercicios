@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\RemainderFinder\bin\Debug\net9.0\RemainderFinder.exe
+C:\Projects\Homework_1\Solutions\RemainderFinder\bin\Debug\net9.0\RemainderFinder.deps.json
+C:\Projects\Homework_1\Solutions\RemainderFinder\bin\Debug\net9.0\RemainderFinder.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\RemainderFinder\bin\Debug\net9.0\RemainderFinder.dll
+C:\Projects\Homework_1\Solutions\RemainderFinder\bin\Debug\net9.0\RemainderFinder.pdb
+C:\Projects\Homework_1\Solutions\RemainderFinder\obj\Debug\net9.0\RemainderFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\RemainderFinder\obj\Debug\net9.0\RemainderFinder.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\RemainderFinder\obj\Debug\net9.0\RemainderFinder.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\RemainderFinder\obj\Debug\net9.0\RemainderFinder.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\RemainderFinder\obj\Debug\net9.0\RemainderFinder.sourcelink.json
+C:\Projects\Homework_1\Solutions\RemainderFinder\obj\Debug\net9.0\RemainderFinder.dll
+C:\Projects\Homework_1\Solutions\RemainderFinder\obj\Debug\net9.0\refint\RemainderFinder.dll
+C:\Projects\Homework_1\Solutions\RemainderFinder\obj\Debug\net9.0\RemainderFinder.pdb
+C:\Projects\Homework_1\Solutions\RemainderFinder\obj\Debug\net9.0\RemainderFinder.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\RemainderFinder\obj\Debug\net9.0\ref\RemainderFinder.dll

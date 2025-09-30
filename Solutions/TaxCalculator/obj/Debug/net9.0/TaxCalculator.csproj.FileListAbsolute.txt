@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\TaxCalculator\bin\Debug\net9.0\TaxCalculator.exe
+C:\Projects\Homework_1\Solutions\TaxCalculator\bin\Debug\net9.0\TaxCalculator.deps.json
+C:\Projects\Homework_1\Solutions\TaxCalculator\bin\Debug\net9.0\TaxCalculator.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\TaxCalculator\bin\Debug\net9.0\TaxCalculator.dll
+C:\Projects\Homework_1\Solutions\TaxCalculator\bin\Debug\net9.0\TaxCalculator.pdb
+C:\Projects\Homework_1\Solutions\TaxCalculator\obj\Debug\net9.0\TaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\TaxCalculator\obj\Debug\net9.0\TaxCalculator.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\TaxCalculator\obj\Debug\net9.0\TaxCalculator.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\TaxCalculator\obj\Debug\net9.0\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\TaxCalculator\obj\Debug\net9.0\TaxCalculator.sourcelink.json
+C:\Projects\Homework_1\Solutions\TaxCalculator\obj\Debug\net9.0\TaxCalculator.dll
+C:\Projects\Homework_1\Solutions\TaxCalculator\obj\Debug\net9.0\refint\TaxCalculator.dll
+C:\Projects\Homework_1\Solutions\TaxCalculator\obj\Debug\net9.0\TaxCalculator.pdb
+C:\Projects\Homework_1\Solutions\TaxCalculator\obj\Debug\net9.0\TaxCalculator.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\TaxCalculator\obj\Debug\net9.0\ref\TaxCalculator.dll

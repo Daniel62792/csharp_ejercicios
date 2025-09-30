@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\SumOfEvens\bin\Debug\net9.0\SumOfEvens.exe
+C:\Projects\Homework_1\Solutions\SumOfEvens\bin\Debug\net9.0\SumOfEvens.deps.json
+C:\Projects\Homework_1\Solutions\SumOfEvens\bin\Debug\net9.0\SumOfEvens.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\SumOfEvens\bin\Debug\net9.0\SumOfEvens.dll
+C:\Projects\Homework_1\Solutions\SumOfEvens\bin\Debug\net9.0\SumOfEvens.pdb
+C:\Projects\Homework_1\Solutions\SumOfEvens\obj\Debug\net9.0\SumOfEvens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\SumOfEvens\obj\Debug\net9.0\SumOfEvens.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\SumOfEvens\obj\Debug\net9.0\SumOfEvens.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\SumOfEvens\obj\Debug\net9.0\SumOfEvens.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\SumOfEvens\obj\Debug\net9.0\SumOfEvens.sourcelink.json
+C:\Projects\Homework_1\Solutions\SumOfEvens\obj\Debug\net9.0\SumOfEvens.dll
+C:\Projects\Homework_1\Solutions\SumOfEvens\obj\Debug\net9.0\refint\SumOfEvens.dll
+C:\Projects\Homework_1\Solutions\SumOfEvens\obj\Debug\net9.0\SumOfEvens.pdb
+C:\Projects\Homework_1\Solutions\SumOfEvens\obj\Debug\net9.0\SumOfEvens.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\SumOfEvens\obj\Debug\net9.0\ref\SumOfEvens.dll

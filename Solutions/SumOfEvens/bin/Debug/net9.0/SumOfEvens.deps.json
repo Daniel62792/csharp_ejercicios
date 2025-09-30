@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SumOfEvens/1.0.0": {
+        "runtime": {
+          "SumOfEvens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumOfEvens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
