@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\SmallestOfFive\bin\Debug\net9.0\SmallestOfFive.exe
+C:\Projects\Homework_1\Solutions\SmallestOfFive\bin\Debug\net9.0\SmallestOfFive.deps.json
+C:\Projects\Homework_1\Solutions\SmallestOfFive\bin\Debug\net9.0\SmallestOfFive.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\SmallestOfFive\bin\Debug\net9.0\SmallestOfFive.dll
+C:\Projects\Homework_1\Solutions\SmallestOfFive\bin\Debug\net9.0\SmallestOfFive.pdb
+C:\Projects\Homework_1\Solutions\SmallestOfFive\obj\Debug\net9.0\SmallestOfFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\SmallestOfFive\obj\Debug\net9.0\SmallestOfFive.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\SmallestOfFive\obj\Debug\net9.0\SmallestOfFive.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\SmallestOfFive\obj\Debug\net9.0\SmallestOfFive.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\SmallestOfFive\obj\Debug\net9.0\SmallestOfFive.sourcelink.json
+C:\Projects\Homework_1\Solutions\SmallestOfFive\obj\Debug\net9.0\SmallestOfFive.dll
+C:\Projects\Homework_1\Solutions\SmallestOfFive\obj\Debug\net9.0\refint\SmallestOfFive.dll
+C:\Projects\Homework_1\Solutions\SmallestOfFive\obj\Debug\net9.0\SmallestOfFive.pdb
+C:\Projects\Homework_1\Solutions\SmallestOfFive\obj\Debug\net9.0\SmallestOfFive.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\SmallestOfFive\obj\Debug\net9.0\ref\SmallestOfFive.dll
