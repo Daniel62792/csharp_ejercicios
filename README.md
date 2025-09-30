@@ -1,3 +1,4 @@
-#### 2. Double or Triple
-- **Rama:** `double-or-triple`
-- **Descripción:** Devuelve el doble del primer número si es mayor, o el triple del segundo.
+#### 3. Root or Square
+- **Rama:** `root-or-square`
+- **Descripción:** Si el número es positivo devuelve su raíz cuadrada, de lo contrario su cuadrado
+- **Ejecutar:** `cd Solutions/RootOrSquare && dotnet run`

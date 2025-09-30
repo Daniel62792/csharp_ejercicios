@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\RootOrSquare\obj\Debug\net9.0\RootOrSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\RootOrSquare\obj\Debug\net9.0\RootOrSquare.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\RootOrSquare\obj\Debug\net9.0\RootOrSquare.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\RootOrSquare\obj\Debug\net9.0\RootOrSquare.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\RootOrSquare\obj\Debug\net9.0\RootOrSquare.sourcelink.json
+C:\Projects\Homework_1\Solutions\RootOrSquare\bin\Debug\net9.0\RootOrSquare.exe
+C:\Projects\Homework_1\Solutions\RootOrSquare\bin\Debug\net9.0\RootOrSquare.deps.json
+C:\Projects\Homework_1\Solutions\RootOrSquare\bin\Debug\net9.0\RootOrSquare.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\RootOrSquare\bin\Debug\net9.0\RootOrSquare.dll
+C:\Projects\Homework_1\Solutions\RootOrSquare\bin\Debug\net9.0\RootOrSquare.pdb
+C:\Projects\Homework_1\Solutions\RootOrSquare\obj\Debug\net9.0\RootOrSquare.dll
+C:\Projects\Homework_1\Solutions\RootOrSquare\obj\Debug\net9.0\refint\RootOrSquare.dll
+C:\Projects\Homework_1\Solutions\RootOrSquare\obj\Debug\net9.0\RootOrSquare.pdb
+C:\Projects\Homework_1\Solutions\RootOrSquare\obj\Debug\net9.0\RootOrSquare.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\RootOrSquare\obj\Debug\net9.0\ref\RootOrSquare.dll
