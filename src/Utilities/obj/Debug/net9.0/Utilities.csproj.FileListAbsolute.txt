@@ -1,0 +1,12 @@
+C:\Projects\Homework_1\src\Utilities\bin\Debug\net9.0\Utilities.deps.json
+C:\Projects\Homework_1\src\Utilities\bin\Debug\net9.0\Utilities.dll
+C:\Projects\Homework_1\src\Utilities\bin\Debug\net9.0\Utilities.pdb
+C:\Projects\Homework_1\src\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\src\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\src\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+C:\Projects\Homework_1\src\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\src\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+C:\Projects\Homework_1\src\Utilities\obj\Debug\net9.0\Utilities.dll
+C:\Projects\Homework_1\src\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+C:\Projects\Homework_1\src\Utilities\obj\Debug\net9.0\Utilities.pdb
+C:\Projects\Homework_1\src\Utilities\obj\Debug\net9.0\ref\Utilities.dll
