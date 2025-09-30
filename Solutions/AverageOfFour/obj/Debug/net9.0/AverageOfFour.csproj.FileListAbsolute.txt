@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\AverageOfFour\bin\Debug\net9.0\AverageOfFour.exe
+C:\Projects\Homework_1\Solutions\AverageOfFour\bin\Debug\net9.0\AverageOfFour.deps.json
+C:\Projects\Homework_1\Solutions\AverageOfFour\bin\Debug\net9.0\AverageOfFour.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\AverageOfFour\bin\Debug\net9.0\AverageOfFour.dll
+C:\Projects\Homework_1\Solutions\AverageOfFour\bin\Debug\net9.0\AverageOfFour.pdb
+C:\Projects\Homework_1\Solutions\AverageOfFour\obj\Debug\net9.0\AverageOfFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\AverageOfFour\obj\Debug\net9.0\AverageOfFour.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\AverageOfFour\obj\Debug\net9.0\AverageOfFour.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\AverageOfFour\obj\Debug\net9.0\AverageOfFour.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\AverageOfFour\obj\Debug\net9.0\AverageOfFour.sourcelink.json
+C:\Projects\Homework_1\Solutions\AverageOfFour\obj\Debug\net9.0\AverageOfFour.dll
+C:\Projects\Homework_1\Solutions\AverageOfFour\obj\Debug\net9.0\refint\AverageOfFour.dll
+C:\Projects\Homework_1\Solutions\AverageOfFour\obj\Debug\net9.0\AverageOfFour.pdb
+C:\Projects\Homework_1\Solutions\AverageOfFour\obj\Debug\net9.0\AverageOfFour.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\AverageOfFour\obj\Debug\net9.0\ref\AverageOfFour.dll
