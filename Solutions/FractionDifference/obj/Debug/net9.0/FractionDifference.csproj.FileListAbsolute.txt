@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\FractionDifference\bin\Debug\net9.0\FractionDifference.exe
+C:\Projects\Homework_1\Solutions\FractionDifference\bin\Debug\net9.0\FractionDifference.deps.json
+C:\Projects\Homework_1\Solutions\FractionDifference\bin\Debug\net9.0\FractionDifference.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\FractionDifference\bin\Debug\net9.0\FractionDifference.dll
+C:\Projects\Homework_1\Solutions\FractionDifference\bin\Debug\net9.0\FractionDifference.pdb
+C:\Projects\Homework_1\Solutions\FractionDifference\obj\Debug\net9.0\FractionDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\FractionDifference\obj\Debug\net9.0\FractionDifference.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\FractionDifference\obj\Debug\net9.0\FractionDifference.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\FractionDifference\obj\Debug\net9.0\FractionDifference.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\FractionDifference\obj\Debug\net9.0\FractionDifference.sourcelink.json
+C:\Projects\Homework_1\Solutions\FractionDifference\obj\Debug\net9.0\FractionDifference.dll
+C:\Projects\Homework_1\Solutions\FractionDifference\obj\Debug\net9.0\refint\FractionDifference.dll
+C:\Projects\Homework_1\Solutions\FractionDifference\obj\Debug\net9.0\FractionDifference.pdb
+C:\Projects\Homework_1\Solutions\FractionDifference\obj\Debug\net9.0\FractionDifference.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\FractionDifference\obj\Debug\net9.0\ref\FractionDifference.dll
