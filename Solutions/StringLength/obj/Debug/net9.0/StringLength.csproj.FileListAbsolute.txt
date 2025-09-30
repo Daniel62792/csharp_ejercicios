@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\StringLength\bin\Debug\net9.0\StringLength.exe
+C:\Projects\Homework_1\Solutions\StringLength\bin\Debug\net9.0\StringLength.deps.json
+C:\Projects\Homework_1\Solutions\StringLength\bin\Debug\net9.0\StringLength.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\StringLength\bin\Debug\net9.0\StringLength.dll
+C:\Projects\Homework_1\Solutions\StringLength\bin\Debug\net9.0\StringLength.pdb
+C:\Projects\Homework_1\Solutions\StringLength\obj\Debug\net9.0\StringLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\StringLength\obj\Debug\net9.0\StringLength.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\StringLength\obj\Debug\net9.0\StringLength.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\StringLength\obj\Debug\net9.0\StringLength.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\StringLength\obj\Debug\net9.0\StringLength.sourcelink.json
+C:\Projects\Homework_1\Solutions\StringLength\obj\Debug\net9.0\StringLength.dll
+C:\Projects\Homework_1\Solutions\StringLength\obj\Debug\net9.0\refint\StringLength.dll
+C:\Projects\Homework_1\Solutions\StringLength\obj\Debug\net9.0\StringLength.pdb
+C:\Projects\Homework_1\Solutions\StringLength\obj\Debug\net9.0\StringLength.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\StringLength\obj\Debug\net9.0\ref\StringLength.dll
