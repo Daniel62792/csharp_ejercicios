@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\CirclePerimeter\bin\Debug\net9.0\CirclePerimeter.exe
+C:\Projects\Homework_1\Solutions\CirclePerimeter\bin\Debug\net9.0\CirclePerimeter.deps.json
+C:\Projects\Homework_1\Solutions\CirclePerimeter\bin\Debug\net9.0\CirclePerimeter.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\CirclePerimeter\bin\Debug\net9.0\CirclePerimeter.dll
+C:\Projects\Homework_1\Solutions\CirclePerimeter\bin\Debug\net9.0\CirclePerimeter.pdb
+C:\Projects\Homework_1\Solutions\CirclePerimeter\obj\Debug\net9.0\CirclePerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\CirclePerimeter\obj\Debug\net9.0\CirclePerimeter.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\CirclePerimeter\obj\Debug\net9.0\CirclePerimeter.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\CirclePerimeter\obj\Debug\net9.0\CirclePerimeter.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\CirclePerimeter\obj\Debug\net9.0\CirclePerimeter.sourcelink.json
+C:\Projects\Homework_1\Solutions\CirclePerimeter\obj\Debug\net9.0\CirclePerimeter.dll
+C:\Projects\Homework_1\Solutions\CirclePerimeter\obj\Debug\net9.0\refint\CirclePerimeter.dll
+C:\Projects\Homework_1\Solutions\CirclePerimeter\obj\Debug\net9.0\CirclePerimeter.pdb
+C:\Projects\Homework_1\Solutions\CirclePerimeter\obj\Debug\net9.0\CirclePerimeter.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\CirclePerimeter\obj\Debug\net9.0\ref\CirclePerimeter.dll
