@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\MidweekDay\bin\Debug\net9.0\MidweekDay.exe
+C:\Projects\Homework_1\Solutions\MidweekDay\bin\Debug\net9.0\MidweekDay.deps.json
+C:\Projects\Homework_1\Solutions\MidweekDay\bin\Debug\net9.0\MidweekDay.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\MidweekDay\bin\Debug\net9.0\MidweekDay.dll
+C:\Projects\Homework_1\Solutions\MidweekDay\bin\Debug\net9.0\MidweekDay.pdb
+C:\Projects\Homework_1\Solutions\MidweekDay\obj\Debug\net9.0\MidweekDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\MidweekDay\obj\Debug\net9.0\MidweekDay.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\MidweekDay\obj\Debug\net9.0\MidweekDay.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\MidweekDay\obj\Debug\net9.0\MidweekDay.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\MidweekDay\obj\Debug\net9.0\MidweekDay.sourcelink.json
+C:\Projects\Homework_1\Solutions\MidweekDay\obj\Debug\net9.0\MidweekDay.dll
+C:\Projects\Homework_1\Solutions\MidweekDay\obj\Debug\net9.0\refint\MidweekDay.dll
+C:\Projects\Homework_1\Solutions\MidweekDay\obj\Debug\net9.0\MidweekDay.pdb
+C:\Projects\Homework_1\Solutions\MidweekDay\obj\Debug\net9.0\MidweekDay.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\MidweekDay\obj\Debug\net9.0\ref\MidweekDay.dll
