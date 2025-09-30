@@ -1,36 +1,44 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿using System;
+using Utilities;
 
-class PositivePower
+namespace PositivePower
 {
-    static void Main()
+    class Program
     {
-        Console.WriteLine("=== Positive Power Calculator ===");
-        Console.Write("Ingrese un número: ");
-        
-        double number;
-        if (double.TryParse(Console.ReadLine(), out number))
+        static void Main()
         {
-            if (number > 0)
+            try
             {
-                double result = number * number;
-                Console.WriteLine($"Resultado: {result}");
+                ExecutePositivePower();
             }
-            else if (number < 0)
+            catch (Exception ex)
             {
-                Console.WriteLine("Número negativo.");
-            }
-            else
-            {
-                Console.WriteLine("0");
+                Console.WriteLine($"Error: {ex.Message}");
             }
         }
-        else
+
+        static void ExecutePositivePower()
         {
-            Console.WriteLine("Entrada no válida. Por favor ingrese un número.");
+            Console.WriteLine("=== CALCULADORA DE POTENCIA POSITIVA ===");
+            
+            double number = InputValidator.GetValidatedDouble("Ingrese un número: ");
+            double result = CalculatePositivePower(number);
+            
+            DisplayResult(number, result);
         }
-        
-        Console.WriteLine("Presione cualquier tecla para salir...");
-        Console.ReadKey();
+
+        static double CalculatePositivePower(double number)
+        {
+            if (number > 0) return number * number;
+            if (number < 0) throw new InvalidOperationException("Número negativo.");
+            return 0;
+        }
+
+        static void DisplayResult(double input, double result)
+        {
+            Console.WriteLine($"Entrada: {input} → Resultado: {result}");
+            Console.WriteLine("\nPresione cualquier tecla para salir...");
+            Console.ReadKey();
+        }
     }
 }
