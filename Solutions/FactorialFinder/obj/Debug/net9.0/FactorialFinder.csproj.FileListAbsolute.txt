@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\FactorialFinder\bin\Debug\net9.0\FactorialFinder.exe
+C:\Projects\Homework_1\Solutions\FactorialFinder\bin\Debug\net9.0\FactorialFinder.deps.json
+C:\Projects\Homework_1\Solutions\FactorialFinder\bin\Debug\net9.0\FactorialFinder.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\FactorialFinder\bin\Debug\net9.0\FactorialFinder.dll
+C:\Projects\Homework_1\Solutions\FactorialFinder\bin\Debug\net9.0\FactorialFinder.pdb
+C:\Projects\Homework_1\Solutions\FactorialFinder\obj\Debug\net9.0\FactorialFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\FactorialFinder\obj\Debug\net9.0\FactorialFinder.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\FactorialFinder\obj\Debug\net9.0\FactorialFinder.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\FactorialFinder\obj\Debug\net9.0\FactorialFinder.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\FactorialFinder\obj\Debug\net9.0\FactorialFinder.sourcelink.json
+C:\Projects\Homework_1\Solutions\FactorialFinder\obj\Debug\net9.0\FactorialFinder.dll
+C:\Projects\Homework_1\Solutions\FactorialFinder\obj\Debug\net9.0\refint\FactorialFinder.dll
+C:\Projects\Homework_1\Solutions\FactorialFinder\obj\Debug\net9.0\FactorialFinder.pdb
+C:\Projects\Homework_1\Solutions\FactorialFinder\obj\Debug\net9.0\FactorialFinder.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\FactorialFinder\obj\Debug\net9.0\ref\FactorialFinder.dll
