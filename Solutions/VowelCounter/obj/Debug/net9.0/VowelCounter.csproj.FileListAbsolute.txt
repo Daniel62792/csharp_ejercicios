@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\VowelCounter\obj\Debug\net9.0\VowelCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\VowelCounter\obj\Debug\net9.0\VowelCounter.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\VowelCounter\obj\Debug\net9.0\VowelCounter.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\VowelCounter\obj\Debug\net9.0\VowelCounter.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\VowelCounter\obj\Debug\net9.0\VowelCounter.sourcelink.json
+C:\Projects\Homework_1\Solutions\VowelCounter\bin\Debug\net9.0\VowelCounter.exe
+C:\Projects\Homework_1\Solutions\VowelCounter\bin\Debug\net9.0\VowelCounter.deps.json
+C:\Projects\Homework_1\Solutions\VowelCounter\bin\Debug\net9.0\VowelCounter.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\VowelCounter\bin\Debug\net9.0\VowelCounter.dll
+C:\Projects\Homework_1\Solutions\VowelCounter\bin\Debug\net9.0\VowelCounter.pdb
+C:\Projects\Homework_1\Solutions\VowelCounter\obj\Debug\net9.0\VowelCounter.dll
+C:\Projects\Homework_1\Solutions\VowelCounter\obj\Debug\net9.0\refint\VowelCounter.dll
+C:\Projects\Homework_1\Solutions\VowelCounter\obj\Debug\net9.0\VowelCounter.pdb
+C:\Projects\Homework_1\Solutions\VowelCounter\obj\Debug\net9.0\VowelCounter.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\VowelCounter\obj\Debug\net9.0\ref\VowelCounter.dll
