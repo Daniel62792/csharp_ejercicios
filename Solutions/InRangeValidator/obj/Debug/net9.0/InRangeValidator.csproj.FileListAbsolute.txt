@@ -1,0 +1,15 @@
+C:\Projects\Homework_1\Solutions\InRangeValidator\bin\Debug\net9.0\InRangeValidator.exe
+C:\Projects\Homework_1\Solutions\InRangeValidator\bin\Debug\net9.0\InRangeValidator.deps.json
+C:\Projects\Homework_1\Solutions\InRangeValidator\bin\Debug\net9.0\InRangeValidator.runtimeconfig.json
+C:\Projects\Homework_1\Solutions\InRangeValidator\bin\Debug\net9.0\InRangeValidator.dll
+C:\Projects\Homework_1\Solutions\InRangeValidator\bin\Debug\net9.0\InRangeValidator.pdb
+C:\Projects\Homework_1\Solutions\InRangeValidator\obj\Debug\net9.0\InRangeValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Homework_1\Solutions\InRangeValidator\obj\Debug\net9.0\InRangeValidator.AssemblyInfoInputs.cache
+C:\Projects\Homework_1\Solutions\InRangeValidator\obj\Debug\net9.0\InRangeValidator.AssemblyInfo.cs
+C:\Projects\Homework_1\Solutions\InRangeValidator\obj\Debug\net9.0\InRangeValidator.csproj.CoreCompileInputs.cache
+C:\Projects\Homework_1\Solutions\InRangeValidator\obj\Debug\net9.0\InRangeValidator.sourcelink.json
+C:\Projects\Homework_1\Solutions\InRangeValidator\obj\Debug\net9.0\InRangeValidator.dll
+C:\Projects\Homework_1\Solutions\InRangeValidator\obj\Debug\net9.0\refint\InRangeValidator.dll
+C:\Projects\Homework_1\Solutions\InRangeValidator\obj\Debug\net9.0\InRangeValidator.pdb
+C:\Projects\Homework_1\Solutions\InRangeValidator\obj\Debug\net9.0\InRangeValidator.genruntimeconfig.cache
+C:\Projects\Homework_1\Solutions\InRangeValidator\obj\Debug\net9.0\ref\InRangeValidator.dll
